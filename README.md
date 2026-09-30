@@ -22,16 +22,16 @@ Linux fundamentals • Networking fundamentals • DevOps fundamentals • Distr
 
 ## 🚀 Featured Projects
 
-### 🎬 Filmify
+### 🎬 [Filmify](https://github.com/MehrnazMirahmadi/Filmify)
 A movie management and streaming web application built with **ASP.NET Core, Entity Framework Core, and Razor Pages / MVC**.
 
-### 🛒 EShopMicroservices
+### 🛒 [EShopMicroservices](https://github.com/MehrnazMirahmadi/EShopMicroservices)
 A learning project focused on **microservices architecture**, service separation, and modern .NET backend development.
 
-### 🧩 ShopVerse DDD Platform
+### 🧩 [ShopVerse DDD Platform](https://github.com/MehrnazMirahmadi/ShopVerse-ddd-platform)
 A shopping platform exploring **Domain-Driven Design (DDD)**, microservices, and asynchronous communication across product, inventory, ordering, and payment domains.
 
-### 📚 BookStore
+### 📚 [BookStore](https://github.com/MehrnazMirahmadi/BookStore)
 An **ASP.NET Core MVC** technical assessment project demonstrating layered structure, Entity Framework Core relationships, repository-based data access, search, and pagination.
 
 ## 🌱 Current Focus
@@ -41,4 +41,3 @@ I'm strengthening my .NET backend skills while gradually learning the fundamenta
 ## 🔗 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mehrnaz-mirahmadi-160589113/)
-- [GitHub Projects](https://github.com/MehrnazMirahmadi?tab=repositories)
