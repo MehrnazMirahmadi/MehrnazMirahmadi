@@ -2,9 +2,9 @@
 
 ### .NET Backend Developer
 
-I'm a backend developer focused on building maintainable applications with **C# and the .NET ecosystem**. My background also includes several years of database development with **SQL and Oracle**, which gives me a strong foundation in data-oriented backend development.
+I'm a backend developer focused on building maintainable applications with **C# and the .NET ecosystem**. My background also includes several years of database development with **SQL and Oracle**, giving me a strong foundation in data-oriented backend development.
 
-I currently work with **ASP.NET Core, Entity Framework Core, SQL Server, REST APIs**, and backend application architecture. I'm also expanding my knowledge of **microservices, Domain-Driven Design, DevOps, Linux, networking, and distributed systems**.
+I currently work with **ASP.NET Core, Entity Framework Core, SQL Server, REST APIs**, and backend application development. I'm also building deeper knowledge of software architecture through study and hands-on projects.
 
 ## 🛠️ Tech Stack
 
@@ -14,11 +14,11 @@ C# • .NET • ASP.NET Core • Entity Framework Core • REST APIs
 **Databases**  
 SQL Server • Oracle • SQL • PL/SQL
 
-**Architecture & Engineering**  
-DDD • Microservices • Repository Pattern • Dependency Injection • Clean/Layered Architecture
+**Concepts used in projects**  
+Dependency Injection • Repository Pattern • Layered Architecture • Microservices • Domain-Driven Design (DDD)
 
 **Currently Learning**  
-DevOps • Linux • Networking • Distributed Systems
+Linux fundamentals • Networking fundamentals • DevOps fundamentals • Distributed systems concepts
 
 ## 🚀 Featured Projects
 
@@ -36,7 +36,7 @@ An **ASP.NET Core MVC** technical assessment project demonstrating layered struc
 
 ## 🌱 Current Focus
 
-I'm continuously strengthening my backend engineering skills with a long-term focus on **software architecture and distributed systems**.
+I'm strengthening my .NET backend skills while gradually learning the fundamentals needed for **software architecture and distributed systems**.
 
 ## 🔗 Connect
 
